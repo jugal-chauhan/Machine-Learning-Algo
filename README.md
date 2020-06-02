@@ -5,4 +5,5 @@ Implementation of a few machine learning algorithms in Python and R such as :
 - Clustering
 - Association Rule Learning
 - Reinforcement Learning
-
+- NLP
+- Deep Learning
